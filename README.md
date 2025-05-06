@@ -6,4 +6,4 @@
 
 # PaperCut-Highlight
 
-➜ Administered print server access and quotas through PaperCut to manage printing costs and prevent unauthorized usage.
+➜ Administered print server access by adding and removing user accounts, updating badge credentials, and handling name changes to maintain accurate and secure access control.
