@@ -4,6 +4,8 @@
   </a>
 </p>
 
-# PaperCut-Highlight
+p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/PaperCut-Highlight/main/images/Papercut.png" alt="PaperCut Highlights" width="600">
+</p>
 
-➜ Administered print server access by adding and removing user accounts, updating badge credentials, and handling name changes to maintain accurate and secure access control.
+> This section showcases experience using PaperCut for print management, user access control, and usage reporting across organizational environments.
